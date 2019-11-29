@@ -57,16 +57,7 @@
                                     <th> <b>Board/ University</b></th>
                                     <th> <b>Grade/ Div</b></th>
                                 </tr>
-                                <tr>
-                                    <td>  
-                                        <select width="80%">
-                                            <option value="bsse">BSSE</option>
-                                            <option value="bscs">BSCS</option>
-                                            <option value="msc">MSC</option>
-                                            <option value="phd">Phd</option>
-                                        </select>  
-                                    </td>
-                                    <td>
+                              td
                                             <select width="80%">
                                                     <option value="2001">2001</option>
                                                     <option value="2002">2002</option>
